@@ -4,4 +4,4 @@ packages
 *.user
 *.suo
 _ReSharper.*
-
+*.db
