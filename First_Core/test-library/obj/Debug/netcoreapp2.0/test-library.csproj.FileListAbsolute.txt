@@ -1,0 +1,16 @@
+/Users/karthikiyer/Sites/NET_Core/First_Core/test-library/obj/Debug/netcoreapp2.0/test-library.csproj.CoreCompileInputs.cache
+/Users/karthikiyer/Sites/NET_Core/First_Core/test-library/obj/Debug/netcoreapp2.0/test-library.AssemblyInfoInputs.cache
+/Users/karthikiyer/Sites/NET_Core/First_Core/test-library/obj/Debug/netcoreapp2.0/test-library.AssemblyInfo.cs
+/Users/karthikiyer/Sites/NET_Core/First_Core/test-library/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/karthikiyer/Sites/NET_Core/First_Core/test-library/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/karthikiyer/Sites/NET_Core/First_Core/test-library/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/karthikiyer/Sites/NET_Core/First_Core/test-library/bin/Debug/netcoreapp2.0/test-library.deps.json
+/Users/karthikiyer/Sites/NET_Core/First_Core/test-library/bin/Debug/netcoreapp2.0/test-library.runtimeconfig.json
+/Users/karthikiyer/Sites/NET_Core/First_Core/test-library/bin/Debug/netcoreapp2.0/test-library.runtimeconfig.dev.json
+/Users/karthikiyer/Sites/NET_Core/First_Core/test-library/bin/Debug/netcoreapp2.0/test-library.dll
+/Users/karthikiyer/Sites/NET_Core/First_Core/test-library/bin/Debug/netcoreapp2.0/test-library.pdb
+/Users/karthikiyer/Sites/NET_Core/First_Core/test-library/bin/Debug/netcoreapp2.0/library.dll
+/Users/karthikiyer/Sites/NET_Core/First_Core/test-library/bin/Debug/netcoreapp2.0/library.pdb
+/Users/karthikiyer/Sites/NET_Core/First_Core/test-library/obj/Debug/netcoreapp2.0/test-library.csproj.CopyComplete
+/Users/karthikiyer/Sites/NET_Core/First_Core/test-library/obj/Debug/netcoreapp2.0/test-library.dll
+/Users/karthikiyer/Sites/NET_Core/First_Core/test-library/obj/Debug/netcoreapp2.0/test-library.pdb

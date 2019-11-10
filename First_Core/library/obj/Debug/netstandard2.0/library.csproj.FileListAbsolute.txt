@@ -1,0 +1,8 @@
+/Users/karthikiyer/Sites/NET_Core/First_Core/library/obj/Debug/netstandard2.0/library.csproj.CoreCompileInputs.cache
+/Users/karthikiyer/Sites/NET_Core/First_Core/library/obj/Debug/netstandard2.0/library.AssemblyInfoInputs.cache
+/Users/karthikiyer/Sites/NET_Core/First_Core/library/obj/Debug/netstandard2.0/library.AssemblyInfo.cs
+/Users/karthikiyer/Sites/NET_Core/First_Core/library/bin/Debug/netstandard2.0/library.deps.json
+/Users/karthikiyer/Sites/NET_Core/First_Core/library/bin/Debug/netstandard2.0/library.dll
+/Users/karthikiyer/Sites/NET_Core/First_Core/library/bin/Debug/netstandard2.0/library.pdb
+/Users/karthikiyer/Sites/NET_Core/First_Core/library/obj/Debug/netstandard2.0/library.dll
+/Users/karthikiyer/Sites/NET_Core/First_Core/library/obj/Debug/netstandard2.0/library.pdb
