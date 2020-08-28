@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreDemo", "EFCoreDemo.csproj", "{CDB3C59B-360C-4F20-8E7B-F05CD2248EF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Customer.Data", "Customer.Data\Customer.Data.csproj", "{63F09AE4-6A13-4A95-81C7-240D2FCE020B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDB3C59B-360C-4F20-8E7B-F05CD2248EF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB3C59B-360C-4F20-8E7B-F05CD2248EF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB3C59B-360C-4F20-8E7B-F05CD2248EF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB3C59B-360C-4F20-8E7B-F05CD2248EF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63F09AE4-6A13-4A95-81C7-240D2FCE020B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F09AE4-6A13-4A95-81C7-240D2FCE020B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F09AE4-6A13-4A95-81C7-240D2FCE020B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F09AE4-6A13-4A95-81C7-240D2FCE020B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

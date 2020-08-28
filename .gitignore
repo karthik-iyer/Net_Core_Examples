@@ -6,4 +6,5 @@ packages
 _ReSharper.*
 *.db
 .ionide
-.vscode
+config.bat
+node_modules
